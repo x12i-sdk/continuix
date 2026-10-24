@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/continuix-docs",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/continuix-docs",
+  "usageRepository": "https://github.com/x12i-sdk/continuix",
+  "sourceRepository": "https://github.com/x12i/continuix",
+  "sourceCommit": "5a16693de320d31465a2fe6fad3468546b489fed",
+  "sourcePackageDirectory": "continuix-docs/packages/continuix-docs",
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:01:28.783494+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "e50e75516a9d7d8d23e1598fe2cc39af5b0503a34fce7eea7ad002cf989db0d2",
+    "manifestSha256": "c1dc1c5e40529a6085b270ec7448a8a101f479ccce24f366ccc2fae50024e4e4"
+  },
+  "npmPackages": [
+    "@x12i/continuix-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
